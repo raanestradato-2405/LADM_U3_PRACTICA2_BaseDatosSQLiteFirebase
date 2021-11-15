@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582416877485",
+    "project_id": "actividad2u3-70d6b",
+    "storage_bucket": "actividad2u3-70d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582416877485:android:7c66286164657e2958c324",
+        "android_client_info": {
+          "package_name": "com.tecnmabrilyantonio.tepic.ladm_practica2_u3_basededatosfirebasecloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582416877485-9h2ahctshpn6o3cfaakrbkrig04i2vuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAarx7sgeBhp9XPG_-PB2QuPz9nVvdMlEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582416877485-9h2ahctshpn6o3cfaakrbkrig04i2vuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
